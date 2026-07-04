@@ -34,7 +34,7 @@ MediaPrune does not delete photos or videos automatically. Deletion only happens
 
 When you delete selected items through MediaPrune, the request is handled by Apple's Photos framework. Deleted photos and videos may be moved to the iOS Recently Deleted album, where they may remain for a limited time depending on your iOS settings.
 
-## Data We Do Not Collect
+## Accounts, Cloud Sync, AI, and Purchases
 
 MediaPrune does not require an account or login.
 
@@ -44,7 +44,13 @@ MediaPrune does not use artificial intelligence features in version 1.0.0.
 
 MediaPrune does not include paid subscriptions or in-app purchases in version 1.0.0.
 
-MediaPrune does not include advertising at this time.
+## Advertising
+
+MediaPrune uses Google AdMob to display banner advertisements.
+
+Google and its partners may collect or process information to provide, measure, and improve ads. This may include device information, advertising identifiers, app usage data, approximate location, diagnostics, and related information.
+
+Photos and videos remain processed locally on the device and are not uploaded by MediaPrune.
 
 ## Contact Support
 

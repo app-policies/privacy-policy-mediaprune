@@ -52,13 +52,13 @@ Apple processes payments and maintains the user's payment information. MediaPrun
 
 MediaPrune uses RevenueCat to provide purchase status and restore access. RevenueCat may process an anonymous customer identifier, product identifiers, transaction and purchase status, entitlement status, subscription status, and related diagnostics. MediaPrune does not provide RevenueCat with your photos or videos.
 
-Users can select Restore Purchases in MediaPrune to restore eligible purchases associated with their Apple Account. Monthly and Yearly subscriptions renew automatically unless cancelled. Subscriptions can be managed or cancelled in the Apple Account subscription settings. Cancellation takes effect according to Apple's subscription terms. The Lifetime option is a one-time purchase and does not automatically renew.
+Users can select Restore Purchases in MediaPrune to restore eligible purchases associated with their Apple Account. Monthly and Yearly subscriptions renew automatically unless cancelled. Subscriptions can be managed or cancelled in the Apple Account subscription settings. Cancellation takes effect according to Apple's subscription terms. MediaPrune v3.0.0 does not offer a Lifetime purchase.
 
-When MediaPrune Pro is active, MediaPrune does not initialize or load Google AdMob and banner advertisements are removed.
+When MediaPrune Pro is active, MediaPrune does not initialize or load Google AdMob, and banner and interstitial advertisements are removed.
 
 ## Advertising
 
-MediaPrune uses Google AdMob to display banner advertisements.
+MediaPrune uses Google AdMob to display banner advertisements and an interstitial advertisement after a free user completes a cleanup and closes the cleanup summary. MediaPrune does not show interstitial advertisements at launch, before photo permission, while reviewing or previewing media, or before a deletion has completed.
 
 Google and its partners may collect or process information to provide, measure, and improve ads. This may include device information, advertising identifiers, app usage data, approximate location, diagnostics, and related information.
 

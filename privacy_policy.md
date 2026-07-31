@@ -2,7 +2,7 @@
 
 Effective date: July 4, 2026
 
-Last updated: July 20, 2026
+Last updated: July 31, 2026
 
 MediaPrune is a photo and video library cleanup app designed to help you review, organize, and delete media from your iPhone photo library.
 
@@ -46,13 +46,13 @@ MediaPrune does not use artificial intelligence features.
 
 ## MediaPrune Pro and Purchases
 
-MediaPrune offers optional MediaPrune Pro access through Apple's In-App Purchase system. Available options may include a Monthly auto-renewable subscription, a Yearly auto-renewable subscription, and a non-renewing Lifetime purchase. MediaPrune does not offer a free trial.
+MediaPrune offers optional MediaPrune Pro access through Apple's In-App Purchase system. The available options are Monthly and Yearly auto-renewable subscriptions. MediaPrune does not offer a free trial, weekly subscription, or Lifetime purchase.
 
 Apple processes payments and maintains the user's payment information. MediaPrune does not receive or store full payment-card details.
 
 MediaPrune uses RevenueCat to provide purchase status and restore access. RevenueCat may process an anonymous customer identifier, product identifiers, transaction and purchase status, entitlement status, subscription status, and related diagnostics. MediaPrune does not provide RevenueCat with your photos or videos.
 
-Users can select Restore Purchases in MediaPrune to restore eligible purchases associated with their Apple Account. Monthly and Yearly subscriptions renew automatically unless cancelled. Subscriptions can be managed or cancelled in the Apple Account subscription settings. Cancellation takes effect according to Apple's subscription terms. MediaPrune v3.0.0 does not offer a Lifetime purchase.
+Users can select Restore Purchases in MediaPrune to restore eligible purchases associated with their Apple Account. Monthly and Yearly subscriptions renew automatically unless cancelled. Subscriptions can be managed or cancelled in the Apple Account subscription settings. Cancellation takes effect according to Apple's subscription terms.
 
 When MediaPrune Pro is active, MediaPrune does not initialize or load Google AdMob, and banner and interstitial advertisements are removed.
 

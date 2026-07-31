@@ -8,4 +8,6 @@ Read the policy here:
 
 [MediaPrune Privacy Policy](privacy_policy.md)
 
-For support, contact support@passmate.jp.
+Need help with MediaPrune?
+
+[MediaPrune Support](support.md)
